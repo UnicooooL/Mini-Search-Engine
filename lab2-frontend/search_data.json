@@ -1,0 +1,39 @@
+{
+  "lexicon": {
+    "ece326": 1
+  },
+  "inverted_index": {
+    "1": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+  },
+  "doc_index": {
+    "1": "http://example.com/page1",
+    "2": "http://example.com/page2",
+    "3": "http://example.com/page3",
+    "4": "http://example.com/page4",
+    "5": "http://example.com/page5",
+    "6": "http://example.com/page6",
+    "7": "http://example.com/page7",
+    "8": "http://example.com/page8",
+    "9": "http://example.com/page9",
+    "10": "http://example.com/page10",
+    "11": "http://example.com/page11",
+    "12": "http://example.com/page12",
+    "13": "http://example.com/page13"
+  },
+  "pagerank": {
+    "1": 0.95,
+    "2": 0.92,
+    "3": 0.89,
+    "4": 0.85,
+    "5": 0.80,
+    "6": 0.76,
+    "7": 0.72,
+    "8": 0.68,
+    "9": 0.64,
+    "10": 0.60,
+    "11": 0.56,
+    "12": 0.52,
+    "13": 0.48
+  }
+}
+

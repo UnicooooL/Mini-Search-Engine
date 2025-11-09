@@ -58,3 +58,30 @@ pre {
   border-radius: .5rem;
   overflow: auto;
 }
+
+.pagination {
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.pagination a,
+.pagination span {
+  margin: 0 4px;
+  padding: 4px 8px;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.pagination .current {
+  font-weight: bold;
+  border-bottom: 2px solid #4285f4; 
+}
+
+.error-page h2 {
+  color: #d93025;
+}
+.error-page p {
+  font-size: 16px;
+  color: #444;
+}
+
